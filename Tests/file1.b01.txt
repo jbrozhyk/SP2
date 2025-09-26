@@ -1,7 +1,6 @@
 program _PRG;
 var int _AAA, _BBB, _XXX, _YYY;
 
-{
     input(_AAA);
     input(_BBB);
 
@@ -16,6 +15,5 @@ var int _AAA, _BBB, _XXX, _YYY;
 
     output(_XXX);
     output(_YYY);
-}
 
 end
