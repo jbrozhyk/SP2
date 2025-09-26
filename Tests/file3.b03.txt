@@ -6,33 +6,33 @@ begin
   get ( _BBB )
 
   _AAA -> _CYA
-_LCBEGIN:
-  if _CYA > _BBB {
-    goto _LCEND
+_LCB:
+  if _CYA gt _BBB {
+    goto _LCE
   }
   put ( _CYA * _CYA )
-  _CYA + 1 -> _CYCLEA
-  goto _LCBEGIN
-_LCEND:
+  _CYA + 1 -> _CYA
+  goto _LCB
+_LCE:
 
   0 -> _XVA
   1 -> _CYA
-_LABEGIN:
-  if _CYA > _AAA {
-    goto _LAEND
+_LAB:
+  if _CYA gt _AAA {
+    goto _LAE
   }
   1 -> _CYB
-_LBBEGIN:
-  if _CYB > _BBB {
+_LBB:
+  if _CYB gt _BBB {
     goto _LBEND
   }
   _XVA + 1 -> _XVA
   _CYB + 1 -> _CYB
-  goto _LBBEGIN
-_LBEND:
+  goto _LBB
+_LBE:
   _CYA + 1 -> _CYA
-  goto _LABEGIN
-_LAEND:
+  goto _LAB
+_LAE:
 
   put ( _XVA )
 
