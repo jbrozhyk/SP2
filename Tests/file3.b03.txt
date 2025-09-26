@@ -1,5 +1,6 @@
-name _PROGRAM3 ;
-body data integer16 _AAA , _BBB , _CYA , _CYB , _XVA ;
+program _PRG;
+var int _AAA , _BBB , _CYA , _CYB , _XVA ;
+begin
 
   get ( _AAA )
   get ( _BBB )
