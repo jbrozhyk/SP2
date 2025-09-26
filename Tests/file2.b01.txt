@@ -21,3 +21,4 @@ var int _AAA, _BBB, _CCC, _MAX;
     ?? перевірка A > B + C
     if (_AAA gt (_BBB + _CCC)) { output(10); } else { output(0); }
 }
+end
