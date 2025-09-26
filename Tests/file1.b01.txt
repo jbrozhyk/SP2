@@ -18,4 +18,4 @@ var int _AAA, _BBB, _XXX, _YYY;
     output(_YYY);
 }
 
-
+end
