@@ -1,24 +1,35 @@
-program _PRG;
-var int _AAA, _BBB, _CCC, _MAX;
+name _PROGRAM2 ;
+body data integer16 _AAA , _BBB , _CCC , _MAX ;
 
-{
-    ?? знайти найбільше число серед трьох
-    input(_AAA);
-    input(_BBB);
-    input(_CCC);
+  get ( _AAA )
+  get ( _BBB )
+  get ( _CCC )
 
-    if (_AAA gt _BBB && _AAA gt _CCC) { _AAA -> _MAX; } else ;
-    if (_BBB gt _AAA && _BBB gt _CCC) { _BBB -> _MAX; } else ;
-    if (_CCC gt _AAA && _CCC gt _BBB) { _CCC -> _MAX; } else ;
-    output(_MAX);
+  if _AAA > _BBB and _AAA > _CCC {
+    _AAA -> _MAX
+  } else if _BBB > _AAA and _BBB > _CCC {
+    _BBB -> _MAX
+  } else {
+    _CCC -> _MAX
+  }
+  put ( _MAX )
 
-    ?? усі числа однакові
-    if ((_AAA eg _BBB) && (_BBB eg _CCC)) { output(1); } else { output(0); }
+  if ( _AAA == _BBB ) and ( _AAA == _CCC ) {
+    put ( 1 )
+  } else {
+    put ( 0 )
+  }
 
-    ?? хоча б одне від’ємне
-    if ((_AAA lt 0) || (_BBB lt 0) || (_CCC lt 0)) { output(-1); } else { output(0); }
+  if ( _AAA < 0 ) or ( _BBB < 0 ) or ( _CCC < 0 ) {
+    put ( -1 )
+  } else {
+    put ( 0 )
+  }
 
-    ?? перевірка A > B + C
-    if (_AAA gt (_BBB + _CCC)) { output(10); } else { output(0); }
-}
+  if not ( _AAA < ( _BBB + _CCC ) ) {
+    put ( 10 )
+  } else {
+    put ( 0 )
+  }
+
 end
