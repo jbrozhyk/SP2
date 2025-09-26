@@ -1,35 +1,38 @@
 name _PROGRAM2 ;
-body data integer16 _AAA , _BBB , _CCC , _MAX ;
+body data int _AAA , _BBB , _CCC , _MAX ;
 
+{
   get ( _AAA )
   get ( _BBB )
   get ( _CCC )
 
-  if _AAA > _BBB and _AAA > _CCC {
-    _AAA -> _MAX
-  } else if _BBB > _AAA and _BBB > _CCC {
-    _BBB -> _MAX
+  if ( _AAA gt _BBB && _AAA gt _CCC ) {
+    _AAA -> _MAX ;
+  } else if ( _BBB gt _AAA && _BBB gt _CCC ) {
+    _BBB -> _MAX ;
   } else {
-    _CCC -> _MAX
+    _CCC -> _MAX ;
   }
   put ( _MAX )
 
-  if ( _AAA == _BBB ) and ( _AAA == _CCC ) {
-    put ( 1 )
+  if ( _AAA eg _BBB && _AAA eg _CCC ) {
+    put ( 1 ) ;
   } else {
-    put ( 0 )
+    put ( 0 ) ;
   }
 
-  if ( _AAA < 0 ) or ( _BBB < 0 ) or ( _CCC < 0 ) {
-    put ( -1 )
+  if ( _AAA lt 0 || _BBB lt 0 || _CCC lt 0 ) {
+    put ( -1 ) ;
   } else {
-    put ( 0 )
+    put ( 0 ) ;
   }
 
-  if not ( _AAA < ( _BBB + _CCC ) ) {
-    put ( 10 )
+  if !! ( _AAA lt ( _BBB + _CCC ) ) {
+    put ( 10 ) ;
   } else {
-    put ( 0 )
+    put ( 0 ) ;
   }
+}
 
 end
+
