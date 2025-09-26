@@ -24,7 +24,7 @@ _LAB:
   1 -> _CYB
 _LBB:
   if _CYB gt _BBB {
-    goto _LBEND
+    goto _LBE
   }
   _XVA + 1 -> _XVA
   _CYB + 1 -> _CYB
