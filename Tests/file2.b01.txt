@@ -1,6 +1,7 @@
-name _PROGRAM2 ;
-body data int _AAA , _BBB , _CCC , _MAX ;
 
+program _PRG;
+var int _AAA , _BBB , _CCC , _MAX ;
+begin
 {
   get ( _AAA )
   get ( _BBB )
