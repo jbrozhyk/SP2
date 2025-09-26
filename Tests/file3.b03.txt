@@ -1,21 +1,38 @@
-program _PRG;
-var int _AAA, _BBB, _X, _I;
+name _PROGRAM3 ;
+body data integer16 _AAA , _BBB , _CYCLEA , _CYCLEB , _XVALUE ;
 
-{
-    input(_AAA);
-    input(_BBB);
+  get ( _AAA )
+  get ( _BBB )
 
-    ?? квадрати чисел від A до B включно
-    for _I := _AAA to _BBB {
-        output(_I * _I);
-    }
+  _AAA -> _CYCLEA
+_LCBEGIN:
+  if _CYCLEA > _BBB {
+    goto _LCEND
+  }
+  put ( _CYCLEA * _CYCLEA )
+  _CYCLEA + 1 -> _CYCLEA
+  goto _LCBEGIN
+_LCEND:
 
-    ?? множення через додавання
-    0 -> _X;
-    for _I := 1 to _BBB {
-        _X + _AAA -> _X;
-    }
+  0 -> _XVALUE
+  1 -> _CYCLEA
+_LABEGIN:
+  if _CYCLEA > _AAA {
+    goto _LAEND
+  }
+  1 -> _CYCLEB
+_LBBEGIN:
+  if _CYCLEB > _BBB {
+    goto _LBEND
+  }
+  _XVALUE + 1 -> _XVALUE
+  _CYCLEB + 1 -> _CYCLEB
+  goto _LBBEGIN
+_LBEND:
+  _CYCLEA + 1 -> _CYCLEA
+  goto _LABEGIN
+_LAEND:
 
-    output(_X);
-}
+  put ( _XVALUE )
+
 end
