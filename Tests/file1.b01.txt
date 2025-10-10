@@ -1,4 +1,4 @@
-program_PRG;
+program _PRG;
 var int _AAA, _BBB, _XXX, _YYY;
 
     input(_AAA);
