@@ -2,15 +2,15 @@ program _PRG;
 var int _AAA , _BBB , _CYA , _CYB , _XVA ;
 begin
 
-  get ( _AAA )
-  get ( _BBB )
+  input ( _AAA )
+  input ( _BBB )
 
   _AAA -> _CYA
 _LCB:
   if _CYA gt _BBB {
     goto _LCE
   }
-  put ( _CYA * _CYA )
+  output ( _CYA * _CYA )
   _CYA + 1 -> _CYA
   goto _LCB
 _LCE:
@@ -34,6 +34,6 @@ _LBE:
   goto _LAB
 _LAE:
 
-  put ( _XVA )
+  output ( _XVA )
 
 end
