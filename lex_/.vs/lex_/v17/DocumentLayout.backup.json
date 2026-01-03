@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file3.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file3.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\lexica_part_dfa_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\lexica_part_dfa_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file.k03||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5941D609-AFAE-418D-A09C-4F316A37721C}|lex_\\lex_.vcxproj|solutionrelative:lex_\\file.k03||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 225,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file3.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file3.b01",
+              "RelativeDocumentMoniker": "lex_\\file3.b01",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file3.b01",
+              "RelativeToolTip": "lex_\\file3.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-19T09:14:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.k03",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file.k03",
+              "RelativeDocumentMoniker": "lex_\\file.k03",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file.k03",
+              "RelativeToolTip": "lex_\\file.k03",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-11T09:44:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file2.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file2.b01",
+              "RelativeDocumentMoniker": "lex_\\file2.b01",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file2.b01",
+              "RelativeToolTip": "lex_\\file2.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-11T09:05:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dfa_generator___part_impl.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\dfa_generator___part_impl.cpp",
+              "RelativeDocumentMoniker": "lex_\\dfa_generator___part_impl.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\dfa_generator___part_impl.cpp",
+              "RelativeToolTip": "lex_\\dfa_generator___part_impl.cpp",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAiwI8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T09:05:01.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "file1.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file1.b01",
+              "RelativeDocumentMoniker": "lex_\\file1.b01",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\file1.b01",
+              "RelativeToolTip": "lex_\\file1.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-29T13:30:40.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lexica_part_dfa_one.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\lexica_part_dfa_one.cpp",
+              "RelativeDocumentMoniker": "lex_\\lexica_part_dfa_one.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\lex_ \u2013 \u043A\u043E\u043F\u0456\u044F\\lex_\\lexica_part_dfa_one.cpp",
+              "RelativeToolTip": "lex_\\lexica_part_dfa_one.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T07:55:43.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

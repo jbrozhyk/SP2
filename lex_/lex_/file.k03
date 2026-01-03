@@ -1,0 +1,18 @@
+NAME ; 
+BODY DATA INTEGER16 _AAA, _BBB, _XXX, _YYY ;
+  GET ( _AAA )
+  GET ( _BBB )
+  
+  PUT ( _AAA + _BBB )
+  PUT ( _AAA - _BBB )
+  PUT ( _AAA * _BBB )
+  PUT ( _AAA DIV _BBB )
+  PUT ( _AAA MOD _BBB )
+
+  (_AAA - _BBB) * 10 + (_AAA + _BBB) DIV 10 =: _XXX
+  _XXX + _XXX MOD 10 =: _YYY
+
+  PUT ( _XXX )
+  PUT ( _YYY )
+
+END

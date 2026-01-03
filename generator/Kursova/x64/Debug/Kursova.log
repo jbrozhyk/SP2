@@ -1,0 +1,4 @@
+﻿  view_dfa_or_partdfa.cpp
+C:\Users\user\Desktop\ГЕНЕРАТОР_3.0\yaruna\yaruna\Kursova\view_dfa_or_partdfa.cpp(70,64): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\user\Desktop\ГЕНЕРАТОР_3.0\yaruna\yaruna\Kursova\x64\Debug\Kursova.exe not found or not built by the last incremental link; performing full link
+  Kursova.vcxproj -> C:\Users\user\Desktop\ГЕНЕРАТОР_3.0\yaruna\yaruna\Kursova\x64\Debug\Kursova.exe

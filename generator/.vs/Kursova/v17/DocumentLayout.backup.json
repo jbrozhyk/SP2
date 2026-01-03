@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\Kursova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E8AE4A-726C-492E-831A-3A55939B021F}|Kursova.vcxproj|C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\Kursova\\view_dfa_or_partdfa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E8AE4A-726C-492E-831A-3A55939B021F}|Kursova.vcxproj|solutionrelative:view_dfa_or_partdfa.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "view_dfa_or_partdfa.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\Kursova\\view_dfa_or_partdfa.cpp",
+              "RelativeDocumentMoniker": "view_dfa_or_partdfa.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u0413\u0415\u041D\u0415\u0420\u0410\u0422\u041E\u0420_3.0\\yaruna\\yaruna\\Kursova\\view_dfa_or_partdfa.cpp",
+              "RelativeToolTip": "view_dfa_or_partdfa.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-05T08:26:22.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
