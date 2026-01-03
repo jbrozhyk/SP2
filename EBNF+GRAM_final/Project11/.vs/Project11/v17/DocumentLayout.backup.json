@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\LexicaByRegExAndSyntaxByLL2protototype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\LexicaByRegExAndSyntaxByLL2protototype.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\EBNF_N2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\EBNF_N1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\wrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\wrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45498695-2361-4E5B-B05E-86F5D6C3EDA4}|Project11\\Project11.vcxproj|solutionrelative:Project11\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "file2.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file2.b01",
+              "RelativeDocumentMoniker": "Project11\\file2.b01",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file2.b01",
+              "RelativeToolTip": "Project11\\file2.b01",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T04:02:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LexicaByRegExAndSyntaxByLL2protototype.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "RelativeDocumentMoniker": "Project11\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "RelativeToolTip": "Project11\\LexicaByRegExAndSyntaxByLL2protototype.h",
+              "ViewState": "AgIAANEAAAAAAAAAAAAwwLABAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-27T21:10:36.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EBNF_N1.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N1.h",
+              "RelativeDocumentMoniker": "Project11\\EBNF_N1.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N1.h",
+              "RelativeToolTip": "Project11\\EBNF_N1.h",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAwwIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-27T21:08:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EBNF_N2.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N2.h",
+              "RelativeDocumentMoniker": "Project11\\EBNF_N2.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\EBNF_N2.h",
+              "RelativeToolTip": "Project11\\EBNF_N2.h",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAAH4BAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-27T21:09:00.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "file1.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file1.b01",
+              "RelativeDocumentMoniker": "Project11\\file1.b01",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\file1.b01",
+              "RelativeToolTip": "Project11\\file1.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T04:08:48.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "one_file__x86_Debug.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\one_file__x86_Debug.cpp",
+              "RelativeDocumentMoniker": "Project11\\one_file__x86_Debug.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\one_file__x86_Debug.cpp",
+              "RelativeToolTip": "Project11\\one_file__x86_Debug.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-28T10:16:13.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\main.c",
+              "RelativeDocumentMoniker": "Project11\\main.c",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\main.c",
+              "RelativeToolTip": "Project11\\main.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-11-28T10:15:41.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "wrapper.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\wrapper.cpp",
+              "RelativeDocumentMoniker": "Project11\\wrapper.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\wrapper.cpp",
+              "RelativeToolTip": "Project11\\wrapper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T21:00:37.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "syntax_one.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\syntax_one.cpp",
+              "RelativeDocumentMoniker": "Project11\\syntax_one.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\EBNF\u002BGRAM_final\\Project11\\Project11\\syntax_one.cpp",
+              "RelativeToolTip": "Project11\\syntax_one.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-27T20:55:32.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
