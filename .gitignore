@@ -12,3 +12,8 @@ Release/
 *.user
 *.suo
 *.db
+# VS cache / IntelliSense
+ipch/
+*.pdb
+*.opendb
+*.VC.db
