@@ -1,0 +1,37 @@
+
+program _PRG;
+var int _AAA , _BBB , _CCC , _MAX ;
+begin
+
+  input ( _AAA )
+  input ( _BBB )
+  input ( _CCC )
+
+  if ( _AAA gt _BBB && _AAA gt _CCC ) {
+    _AAA -> _MAX ;
+  } else if ( _BBB gt _AAA && _BBB gt _CCC ) {
+    _BBB -> _MAX ;
+  } else {
+    _CCC -> _MAX ;
+  }
+  put ( _MAX )
+
+  if ( _AAA eg _BBB && _AAA eg _CCC ) {
+    output ( 1 ) ;
+  } else {
+    output ( 0 ) ;
+  }
+
+  if ( _AAA lt 0 || _BBB lt 0 || _CCC lt 0 ) {
+    output ( -1 ) ;
+  } else {
+    output ( 0 ) ;
+  }
+
+  if !! ( _AAA lt ( _BBB + _CCC ) ) {
+    output ( 10 ) ;
+  } else {
+    output ( 0 ) ;
+  }
+
+end

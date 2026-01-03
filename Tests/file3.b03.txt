@@ -1,0 +1,39 @@
+program _PRG;
+var int _AAA , _BBB , _CYA , _CYB , _XVA ;
+begin
+
+  input ( _AAA )
+  input ( _BBB )
+
+  _AAA -> _CYA
+_LCB:
+  if _CYA gt _BBB {
+    goto _LCE
+  }
+  output ( _CYA * _CYA )
+  _CYA + 1 -> _CYA
+  goto _LCB
+_LCE:
+
+  0 -> _XVA
+  1 -> _CYA
+_LAB:
+  if _CYA gt _AAA {
+    goto _LAE
+  }
+  1 -> _CYB
+_LBB:
+  if _CYB gt _BBB {
+    goto _LBE
+  }
+  _XVA + 1 -> _XVA
+  _CYB + 1 -> _CYB
+  goto _LBB
+_LBE:
+  _CYA + 1 -> _CYA
+  goto _LAB
+_LAE:
+
+  output ( _XVA )
+
+end
