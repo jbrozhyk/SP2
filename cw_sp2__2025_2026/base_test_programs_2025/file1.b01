@@ -1,0 +1,20 @@
+program _PRG;
+var int _AAA, _BBB, _XXX, _YYY;
+begin
+
+    input(_AAA)
+    input(_BBB)
+
+    output(_AAA + _BBB)
+    output(_AAA - _BBB)
+    output(_AAA * _BBB)
+    output(_AAA / _BBB)
+    output(_AAA % _BBB)
+
+    (_AAA - _BBB) * 10 + (_AAA + _BBB) / 10 -> _XXX
+    _XXX + _XXX % 10 -> _YYY
+
+    output(_XXX)
+    output(_YYY)
+
+end

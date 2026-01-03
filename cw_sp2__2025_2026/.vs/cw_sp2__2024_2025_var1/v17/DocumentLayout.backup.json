@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file3.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|solutionrelative:base_test_programs_2025\\file3.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|solutionrelative:base_test_programs_2025\\file1.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|solutionrelative:dfa_generator__2025\\dfa_generator___part_impl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF__2025\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F62F20C-0B32-4F6D-A449-109145DD1086}|verify_syntax_by_EBNF__2025\\verify_syntax_by_EBNF__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{86F1E242-A45D-4537-A042-10728156A0BA}|cw_sp2__2025_2026\\cw_sp2__2025_2026.vcxproj|solutionrelative:base_test_programs_2025\\file2.b01||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36530900-47FF-4939-940F-B46F179C870B}|verify_syntax_by_EBNF_nonpacked__2025\\verify_syntax_by_EBNF_nonpacked__2025.vcxproj|solutionrelative:verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93995E25-58E8-468D-B3AE-B5C35B5788BD}|dfa_generator__2025\\dfa_generator__2025.vcxproj|solutionrelative:dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\main.c",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF__2025\\main.c",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\main.c",
+              "RelativeToolTip": "verify_syntax_by_EBNF__2025\\main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-02T17:55:34.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "one_file__x86_Debug.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF__2025\\one_file__x86_Debug.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T17:55:31.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "syntax_one.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF__2025\\syntax_one.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T17:55:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file1.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file1.b01",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file1.b01",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file1.b01",
+              "RelativeToolTip": "base_test_programs_2025\\file1.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T13:18:59.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "file3.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file3.b01",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file3.b01",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file3.b01",
+              "RelativeToolTip": "base_test_programs_2025\\file3.b01",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T13:20:38.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "file2.b01",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file2.b01",
+              "RelativeDocumentMoniker": "base_test_programs_2025\\file2.b01",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\base_test_programs_2025\\file2.b01",
+              "RelativeToolTip": "base_test_programs_2025\\file2.b01",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-02T13:20:11.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "syntax_one.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "RelativeDocumentMoniker": "verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "RelativeToolTip": "verify_syntax_by_EBNF_nonpacked__2025\\syntax_one.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T13:14:15.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Graphviz-14.0.5-win32--link.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "RelativeDocumentMoniker": "dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "RelativeToolTip": "dfa_generator__2025\\Graphviz-14.0.5-win32--link.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-02T11:09:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dfa_generator___part_impl.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "RelativeDocumentMoniker": "dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\Telegram Desktop\\cw_sp2__2025_2026\\cw_sp2__2025_2026\\dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "RelativeToolTip": "dfa_generator__2025\\dfa_generator___part_impl.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-02T11:09:24.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

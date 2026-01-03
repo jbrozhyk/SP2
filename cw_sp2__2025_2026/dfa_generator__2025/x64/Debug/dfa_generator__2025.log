@@ -1,0 +1,3 @@
+﻿  dfa_generator___part_impl.cpp
+C:\Users\user\Downloads\Telegram Desktop\cw_sp2__2025_2026_Yaruna1\cw_sp2__2025_2026_Yaruna1\dfa_generator__2025\dfa_generator___part_impl.cpp(692,64): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  dfa_generator__2025.vcxproj -> C:\Users\user\Downloads\Telegram Desktop\cw_sp2__2025_2026_Yaruna1\cw_sp2__2025_2026_Yaruna1\x64\Debug\dfa_generator__2025.exe

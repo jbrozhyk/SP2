@@ -1,0 +1,4 @@
+﻿  wrapper.c
+C:\Users\user\Downloads\Telegram Desktop\cw_sp2__2025_2026_Yaruna1\cw_sp2__2025_2026_Yaruna1\wrapWithInOutPipe\wrapper.c(111,9): warning C4133: 'function': incompatible types - from 'STARTUPINFOW *' to 'LPSTARTUPINFOA'
+C:\Users\user\Downloads\Telegram Desktop\cw_sp2__2025_2026_Yaruna1\cw_sp2__2025_2026_Yaruna1\wrapWithInOutPipe\wrapper.c(126,46): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\user\Downloads\Telegram Desktop\cw_sp2__2025_2026_Yaruna1\cw_sp2__2025_2026_Yaruna1\wrapWithInOutPipe\wrapper.c(156,56): error C2197: 'void ErrorExit(const char *)': too many arguments for call

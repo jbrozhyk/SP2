@@ -1,0 +1,16 @@
+﻿  main_spirit.cpp
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\boost\boost\spirit\include\phoenix.hpp(12): message : This header is deprecated. Use <boost/phoenix.hpp> instead.
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\main_spirit.cpp(115,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\main_spirit.cpp(116,35): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\main_spirit.cpp(117,36): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  syntax_one.cpp
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(35,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(350,26): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(351,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(352,33): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(410,38): warning C4244: 'return': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(725,47): warning C4018: '<=': signed/unsigned mismatch
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(752,47): warning C4018: '<=': signed/unsigned mismatch
+E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\verify_syntax_by_EBNF_nonpacked__2025\syntax_one.cpp(949,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  verify_syntax_by_EBNF_nonpacked__2025.vcxproj -> E:\Study\ForPeople\Yarina1\12_12_2025__new_sln_cw_sp2__2025_2026\x64\Debug\verify_syntax_by_EBNF_nonpacked__2025.exe
